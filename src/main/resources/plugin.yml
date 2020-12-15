@@ -1,0 +1,8 @@
+name: ChangeTeam
+version: ${project.version}
+main: me.toonaminsenapi.changeteam.Main
+api-version: 1.16
+prefix: ChangeTeams
+authors: [ToonamiSenapi]
+description: Simple  Team Chaing Plugin
+website: Visengaming.com
